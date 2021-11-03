@@ -35,3 +35,4 @@ r_dir_file(shell, qti_logkit_pub_data_file)
 
 # allow any 3rd party shell app to be a client of DSP HAL
 hal_client_domain(shell, vendor_hal_dspmanager)
+
